@@ -41,7 +41,11 @@ Windows
 
        $ pip install comtypes lantz tifffile-2016.4.19-cp34-cp34m-win_amd64.whl
 
--  Clone `Tormenta repo <https://github.com/fedebarabas/tormenta>`__.
+-  Clone Repository by running:
+
+```
+$ git clone https://github.com/marcnol/tormenta.git
+```
 
 Optional dependencies
 ^^^^^^^^^^^^^^^^^^^^^
